@@ -3,7 +3,7 @@ Claymore
 
 Generates a random string from ASCII/ASCII-EXTENDED/UTF-8 Table and store it in a file
 
-This was tested on Python3.3 x64 and is the recommended version to use.
+This was written in Python3.3 x64 and is the recommended version to use.
 
 
 !! WARNING !!
