@@ -14,7 +14,7 @@ Currently length isn't handled which will cause an MemError if you do not have e
 Usage:
 ------
 
-program [-a | -e | -v | -h] length filename
+claymore [-a | -e | -v | -h] length filename
 
 
 Options:
